@@ -1,6 +1,22 @@
 {
-    "rut" : 111,
-    "Nombre" : "Prueba 1",
-    "Direccion" : "Direccion 1",
-    "isapre" : "Isapre 1"
+    "lista" : [
+        {
+            "rut" : 111,
+            "Nombre" : "Prueba 1",
+            "Direccion" : "Direccion 1",
+            "isapre" : "Isapre 1"
+        },
+        {
+            "rut" : 22,
+            "Nombre" : "Prueba 2",
+            "Direccion" : "Direccion 2",
+            "isapre" : "Isapre 2"
+        },
+        {
+            "rut" : 21,
+            "Nombre" : "Prueba 3",
+            "Direccion" : "Direccion 3",
+            "isapre" : "Isapre 3"
+        }
+    ]
 }
