@@ -1,0 +1,38 @@
+[
+    {
+        "rut" : 111,
+        "Nombre" : "Prueba 1",
+        "Direccion" : "Direccion 1",
+        "isapre" : "Isapre 1"
+    },
+    {
+        "rut" : 22,
+        "Nombre" : "Prueba 2",
+        "Direccion" : "Direccion 2",
+        "isapre" : "Isapre 2"
+    },
+    {
+        "rut" : 21,
+        "Nombre" : "Prueba 3",
+        "Direccion" : "Direccion 3",
+        "isapre" : "Isapre 3"
+    },
+    {
+        "rut" : 222,
+        "Nombre" : "Prueba 222",
+        "Direccion" : "Direccion 222",
+        "isapre" : "Isapre 222"
+    },
+    {
+        "rut" : 333,
+        "Nombre" : "Prueba 3",
+        "Direccion" : "Direccion 3",
+        "isapre" : "Isapre 3"
+    },
+    {
+        "rut" : 444,
+        "Nombre" : "Prueba 4",
+        "Direccion" : "Direccion 4",
+        "isapre" : "Isapre 4"
+    }
+]
